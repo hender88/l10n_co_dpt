@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data noupdate="0">
+	  
+	<!-- Departamentos -->
+	<record id="dep_co_AMA" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">AMA</field>
+		<field name="name">Amazonas</field>
+	</record>
+
+	<record id="dep_co_ANT" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">ANT</field>
+		<field name="name">Antioquia</field>
+	</record>
+	
+	<record id="dep_co_ATL" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">ATL</field>
+		<field name="name">Atlántico</field>
+	</record>
+	
+	<record id="dep_co_DC" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">DC</field>
+		<field name="name">Bogotá</field>
+	</record>
+	
+
+	<record id="dep_co_BOL" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">BOL</field>
+		<field name="name">Bolívar</field>
+	</record>
+	
+	<record id="dep_co_BOY" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">BOY</field>
+		<field name="name">Boyacá</field>
+	</record>
+	
+	<record id="dep_co_CAL" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">CAL</field>
+		<field name="name">Caldas</field>
+	</record>
+	
+	<record id="dep_co_CAQ" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">CAQ</field>
+		<field name="name">Caquetá</field>
+	</record>
+
+	<record id="dep_co_CAU" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">CAU</field>
+		<field name="name">Cauca</field>
+	</record>
+
+	<record id="dep_co_FAL" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">CES</field>
+		<field name="name">Cesar</field>
+	</record>
+
+	<record id="dep_co_COR" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">COR</field>
+		<field name="name">Córdoba</field>
+	</record>
+
+	<record id="dep_co_CUN" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">CUN</field>
+		<field name="name">Cundinamarca</field>
+	</record>
+
+	<record id="dep_co_CHO" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">CHO</field>
+		<field name="name">Chocó</field>
+	</record>
+	
+	<record id="dep_co_HUI" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">HUI</field>
+		<field name="name">Huila</field>
+	</record>
+
+	<record id="dep_co_LAG" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">LAG</field>
+		<field name="name">La Guajira</field>
+	</record>
+
+	<record id="dep_co_MAG" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">MAG</field>
+		<field name="name">Magdalena</field>
+	</record>
+
+	<record id="dep_co_MET" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">MET</field>
+		<field name="name">Meta</field>
+	</record>
+
+	<record id="dep_co_NAR" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">NAR</field>
+		<field name="name">Nariño</field>
+	</record>
+
+	<record id="dep_co_NSA" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">NSA</field>
+		<field name="name">Norte de Santander</field>
+	</record>
+
+	<record id="dep_co_QUI" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">QUI</field>
+		<field name="name">Quindío</field>
+	</record>
+	
+	<record id="dep_co_RIS" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">RIS</field>
+		<field name="name">Risaralda</field>
+	</record>
+
+	<record id="dep_co_SAN" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">SAN</field>
+		<field name="name">Santander</field>
+	</record>
+
+	<record id="dep_co_SUC" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">SUC</field>
+		<field name="name">Sucre</field>
+	</record>
+
+	<record id="dep_co_TOL" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">TOL</field>
+		<field name="name">Tolima</field>
+	</record>
+	
+	
+		<record id="dep_co_VAC" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">VAC</field>
+		<field name="name">Valle del Cauca</field>
+	</record>
+	
+		<record id="dep_co_ARA" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">ARA</field>
+		<field name="name">Arauca</field>
+	</record>
+	
+		<record id="dep_co_CAS" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">CAS</field>
+		<field name="name">Casanare</field>
+	</record>
+	
+		
+		<record id="dep_co_PUT" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">PUT</field>
+		<field name="name">Putumayo</field>
+	</record>
+		
+		<record id="dep_co_SAP" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">SAP</field>
+		<field name="name">San Andrés y Providencia</field>
+	</record>
+		
+		<record id="dep_co_GUA" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">GUA</field>
+		<field name="name">Guainía</field>
+	</record>
+	
+	<record id="dep_co_GUV" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">GUV</field>
+		<field name="name">Guaviare</field>
+	</record>
+	
+		<record id="dep_co_VAU" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">VAU</field>
+		<field name="name">Vaupés</field>
+	</record>
+	
+		<record id="dep_co_VID" model="res.country.state">
+		<field name="country_id">49</field>
+		<field name="code">VID</field>
+		<field name="name">Vichada</field>
+	</record>
+	
+	</data>
+</odoo>
